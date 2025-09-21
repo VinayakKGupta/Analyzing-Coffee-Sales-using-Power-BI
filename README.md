@@ -7,6 +7,6 @@ He taught some important concepts on how to use different functionalities in Pow
 Key Business Questions which I was able to answer using this report is - 
 
 1) Which brand and strength of coffee had the most and least sales in years 2019,2020,2021 ?
-2) Which state is the argest consumer of coffee ?
+2) Which state is the largest consumer of coffee ?
 3) Who are the top customers of these products ?
 
