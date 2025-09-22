@@ -1,4 +1,4 @@
-# Analyzing-Coffee-Sales-using-Power-BI
+## Key Findings of coffee sales analysis ##
 
 This analysis was done with the help of the book " Your Essential guide to power BI " by Wyn Hopkins.
 
