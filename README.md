@@ -6,13 +6,13 @@ He taught some important concepts on how to use different functionalities in Pow
 
 Key Business Questions which I was able to answer using this report is - 
 
-1) Which city consistently delivered the highest sales quantity across months, and how does it compare to the lowest-performing city?
+### 1) Which city consistently delivered the highest sales quantity across months, and how does it compare to the lowest-performing city? ###
 
 <img width="1036" height="289" alt="image" src="https://github.com/user-attachments/assets/cc7222c5-3fe5-4aed-be33-793fc1bf6dc4" />
 
 From the visual, it is clear that Perth consistently records the highest sales quantity across all cities in Australia, with 1,451 units sold in 2020, while Darwin remains the lowest with only 88 units. This pattern is not limited to 2020; when filtering the report for 2019 and 2021, the same trend continues, highlighting Perth as the strongest market and Darwin as the weakest across multiple years.
 
-2) Which customer groups met or missed their budget targets, and by how much?
+### 2) Which customer groups met or missed their budget targets, and by how much? ###
 
 <img width="968" height="282" alt="image" src="https://github.com/user-attachments/assets/55165007-6c75-4fbb-adc9-e74fd53ef7d6" />
 
@@ -22,7 +22,7 @@ From the customer group sales vs budget analysis, we can see that in 2020, Resta
 
 However in 2021 , none of the customer groups were able to meet their budget targets, with overall sales reaching $88,759 against a budget of $100,240 (89%). Among the groups, Independent Cafés performed best at 88% of budget ($19,114 vs $21,830), closely followed by Restaurants at 89% ($13,716 vs $15,370). On the lower end, Bookstores achieved only 82% ($12,313 vs $15,000) and Café Franchises 85% ($37,520 vs $44,230), indicating consistent underperformance in these segments.
 
-3) What is the sales contribution of top coffee products or strengths, and how much larger is Medium strength demand compared to Strong or Decaf?
+### 3) What is the sales contribution of top coffee products or strengths, and how much larger is Medium strength demand compared to Strong or Decaf? ###
 
 <img width="859" height="385" alt="image" src="https://github.com/user-attachments/assets/e4f0747f-93aa-45af-a60c-7de795d30683" />
 
@@ -47,6 +47,14 @@ Additional observations from top segments:
 The Centre Across brand dominates, especially among Café Franchise customers.
 
 Sydney is the highest consumer city for Medium strength coffee, with 657 units ordered.
+
+### 4) How much revenue is being lost due to underperformance against budget across all customer groups, and how much additional sales could be generated if each group achieved at least 95% of its budget? ###
+
+<img width="1012" height="278" alt="image" src="https://github.com/user-attachments/assets/586fd50d-2855-4cd9-891f-223b7a852c73" />
+
+From the Customer Group Actual vs Budget Sales table, we can see that in 2021, total actual sales were $88,759, compared to a budget of $100,240, leaving a shortfall of $11,481. This represents the revenue opportunity lost due to underperformance across customer groups. If each group had achieved at least 95% of its budget, the business could have generated an additional ~$6,500–$7,000 in sales. This highlights a clear opportunity to optimize performance with existing customers and channels, unlocking measurable revenue gains without the need to acquire new customers.
+
+
 
 
 
